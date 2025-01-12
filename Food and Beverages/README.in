@@ -53,4 +53,3 @@ This project uses the **Random Forest algorithm** to predict the quality of wine
 
 ## Results
 The **Random Forest model** achieved high accuracy in predicting wine quality. Detailed evaluation metrics are included in the notebook.
-
